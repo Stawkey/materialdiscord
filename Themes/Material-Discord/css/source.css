@@ -68,7 +68,7 @@
 }
 
 .theme-dark {
-  --main-color: #16171a;
+  --main-color: #36393e;
   --main-alt: #0f1012;
   --accent-hsl--material-you: var(--accent-hsl);
   --accent-text-color--material-you: var(--accent-text-color);
